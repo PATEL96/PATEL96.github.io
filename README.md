@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raj D. Patel</h1>
 <h3 align="center">A Student Dev From India</h3>
 
-<p align="left"> <a href="https://twitter.com/rajpatel962002" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="rajpatel962002" /></a> <a href="mailto:patel.raj.official.96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
+<p align="left"> <a href="https://twitter.com/rajpatel962002" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="rajpatel962002" /></a> <a href="mailto:patel.raj.official.96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
 
 - 🌱 I’m currently learning **Solidity, Rust, Go, Hardhat**
 
 - 💬 Ask me about **ReactJS, NextJS, Python, Java, JavaScript**
 
-- 📫 How to reach me **patel.raj.official.96@gmail.com**
+- 📫 How to reach me **<a href="mailto:patel.raj.official.96@gmail.com">patel.raj.official.96@gmail.com</a>**
 
 - ⚡ Fun fact **I'm Everywhere!!!**
 
