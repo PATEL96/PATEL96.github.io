@@ -1,5 +1,5 @@
 <styles>
-    *{
+    .main {
         background: black;
     }
 </styles>
