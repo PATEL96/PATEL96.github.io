@@ -1,9 +1,3 @@
-<styles>
-    .main {
-        background: black;
-    }
-</styles>
-
 <h1 align="center">Hi 👋, I'm Raj D. Patel</h1>
 <h3 align="center">A Student Dev From India</h3>
 
