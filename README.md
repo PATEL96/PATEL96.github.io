@@ -1,3 +1,9 @@
+styles{
+*{
+    background: black;
+  }
+}
+
 <h1 align="center">Hi 👋, I'm Raj D. Patel</h1>
 <h3 align="center">A Student Dev From India</h3>
 
@@ -6,6 +12,8 @@
 - 🌱 I’m currently learning **Solidity, Rust, Go, Hardhat**
 
 - 💬 Ask me about **ReactJS, NextJS, Python, Java, JavaScript**
+
+- 👽 Porfolio **<a href="patel96.me/Portfolio" target="_blank">My Portfolio Website</a>**
 
 - 📫 How to reach me **<a href="mailto:patel.raj.official.96@gmail.com">patel.raj.official.96@gmail.com</a>**
 
