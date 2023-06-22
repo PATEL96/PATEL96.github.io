@@ -13,7 +13,7 @@ styles{
 
 - 💬 Ask me about **ReactJS, NextJS, Python, Java, JavaScript**
 
-- 👽 Porfolio **<a href="patel96.me/Portfolio" target="_blank">My Portfolio Website</a>**
+- 👽 Porfolio **<a href="https://patel96.me/Portfolio" target="_blank">My Portfolio Website</a>**
 
 - 📫 How to reach me **<a href="mailto:patel.raj.official.96@gmail.com">patel.raj.official.96@gmail.com</a>**
 
